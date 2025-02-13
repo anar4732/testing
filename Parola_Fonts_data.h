@@ -18,7 +18,7 @@ MD_MAX72XX::fontType_t ExtASCII[] PROGMEM =
   0,		// 12 - 'Unused'
   0,		// 13 - 'Unused'
   0,		// 14 - 'Unused'
-  0,		// 15 - 'Unused'
+  4, 0, 0, 0, 0,		// 15 - 'Unused'
   0,		// 16 - 'Unused'
   0,		// 17 - 'Unused'
   0,		// 18 - 'Unused'
